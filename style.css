@@ -1,0 +1,302 @@
+/* h1{
+    color: aquamarine;
+}
+p{
+    color: rgb(29, 20, 8);
+}
+button{
+    color: brown;
+    background-color: bisque;
+}
+
+body{
+    background-color: coral;
+} */
+/* h1{
+    text-align: center;
+    text-decoration: red wavy underline;
+}
+
+p{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+#one{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: normal;
+    text-transform:inherit;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+} */
+
+
+   
+    
+    /* padding: 50px;
+    padding: 2px 4px 12px 13px;
+    margin: 12px;
+    
+
+ }
+ /* div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+ } */
+  /* *{
+    color:white;
+    padding: 0px;
+    margin: 0px;
+    
+  }
+  #navbar{
+    height: 60px;
+    background-color: black;
+  }
+  #logo{
+    color: #f08804;
+    font-size: 25px;
+    
+  }
+  button{
+    background-color: #f08804;
+  }
+  a{
+    margin-right: 200px;
+  } */
+  /* div{
+    background-color: blue;
+    display: inline;
+  } */
+   /* div{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+   } */
+   /* #a1{
+    visibility: hidden;
+   } */
+
+/* 
+   div{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    border: 2px solid black;
+    display: inline-block;
+   }
+
+   #box1{
+    background-image: url("cat.jpg");
+    background-size: cover;
+   } */
+/* 
+   #box1{
+    position: static;
+    top: 23px;
+    
+   }
+   #box2{
+    position: relative;
+    right: 19px;
+    z-index: 26;
+   }
+   #box3{
+    position: absolute;
+    top: 14px;
+   }
+   #box4{
+    position: fixed;
+    bottom: 23px;
+   }  */
+    
+
+
+
+
+
+   /* #ami{
+    width: 100px;
+    height: 100px;
+    background-image: url("cat.jpg");
+    background-size: cover;
+    position: fixed;
+    right:0px ;
+   } */
+
+
+
+
+/* 
+   body{
+    text-align: center;
+   }
+   div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+   }
+   #container{
+    width: 800px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: start; */
+    
+   /* }
+   #box1{
+    background-color: aqua;
+   }
+   #box2{
+    background-color: blue;
+   }
+   #box3{
+    background-color: brown;
+   }
+   #box4{
+    background-color: bisque;
+   }
+   #box5{
+    background-color: chartreuse;
+   }
+   #box6{
+    background-color: chocolate;
+    
+   } */
+
+
+
+
+
+   /* .navbar{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-evenly;
+  }
+a{
+    text-decoration: none;
+    color: black;
+
+}
+li{
+    list-style-type: none;
+    background-color: aqua;
+    display: inline;
+} */
+
+
+
+
+/* 
+.outer{
+  height: 400px;
+  width: 400px;
+  background-color: brown;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inner{
+  height: 100px;
+  width: 100px;
+  background-color: blueviolet;
+} */
+
+
+
+
+
+
+
+
+/* div{
+  width: 90px;
+  height: 90px;
+  background-color: rgb(42, 165, 163);
+  border: 2px solid black; */
+  /* transition-property: all;
+  transition-duration: 2s;
+  transition-timing-function: ease-out;
+  transition-delay: 2s;
+  transform: scale(3); */
+  /* position: absolute;
+  top: 100px;
+  left: 100px;
+  animation-name: coloranimate;
+  animation-duration: 2s;
+  animation-timing-function: ease-in;
+  animation-delay: 1s;
+  animation-iteration-count: 2;
+  animation-direction: alternate; */
+  /* transition: all 2s ease-in; */
+
+
+/* } */
+
+/* 
+@media (min-width : 300px) and (max-width: 400px){
+  div{
+    background-color: rgb(3, 20, 20);
+  }
+} */
+
+
+
+/* div:hover{
+  background-color: blueviolet;
+  color: white;
+  font-size: 10px;
+  transform: skew(90deg);
+} */
+
+
+/* 
+@keyframes coloranimate{
+  0%{left: 0px;}
+  50%{background-color: aqua;}
+  100%{left: 200px;}
+} */
+
+
+/* div:active{
+  background-color: blanchedalmond;
+} */
+
+
+
+
+
+
+
+/* 
+.loader{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 20px solid #d6ca98;
+  border-top: 20px solid #cef9f2;
+
+  animation: loaderspin 3s steps(50) 0s infinite normal ;
+} */
+
+
+
+/* @keyframes loaderspin{
+  from{
+    transform: rotate(0deg);
+  }
+  to{
+    transform: rotate(360deg);
+  }
+} */
